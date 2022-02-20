@@ -1,2 +1,3 @@
-clc
-clear
+clc;
+clear;
+A=[ 1 2 3 ]
