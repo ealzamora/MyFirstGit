@@ -7,3 +7,4 @@ B=[5 6 7];
 %Using Ci
 C=ones(1,5);
 
+%last dell
